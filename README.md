@@ -34,9 +34,7 @@ Ferramenta desenvolvida para auxiliar no dimensionamento e seleção de mangueir
 
 ## Performance e Qualidade
 
-### Auditoria Google Lighthouse
-
-![Lighthouse](https://github.com/user-attachments/assets/ca524188-c872-46d4-875c-bd3abd765faa)
+### Auditoria Google 
 
 | Categoria | Pontuação |
 |------------|------------|
